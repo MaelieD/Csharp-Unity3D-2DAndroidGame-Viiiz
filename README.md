@@ -6,3 +6,5 @@ Commit nomenclature
 - MOD : modified existing
 - FIX : bug fixing
 
+Color game : https://color.adobe.com/create/color-wheel
+
