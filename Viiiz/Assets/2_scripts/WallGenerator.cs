@@ -37,7 +37,7 @@ public class WallGenerator : MonoBehaviour {
 			Vector3 nextPosition = originPosition;
 			for (int j = 0; j < Random.Range(horizontalMin, horizontalMax); j++)
 			{
-				Instantiate (squareWallRight, nextPosition, Quaternion.identity);
+				//Instantiate (squareWallRight, nextPosition, Quaternion.identity);
 				originPosition = nextPosition;
 			}
 		}

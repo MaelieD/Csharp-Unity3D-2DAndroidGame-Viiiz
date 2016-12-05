@@ -5,8 +5,6 @@ Project("{40ABE9DE-D2E9-6CBE-6A53-39112E8F5022}") = "Viiiz", "Assembly-CSharp-fi
 EndProject
 Project("{40ABE9DE-D2E9-6CBE-6A53-39112E8F5022}") = "Viiiz", "Assembly-CSharp.csproj", "{2852AB85-1788-4D0F-9B6A-896D9F7CC7D4}"
 EndProject
-Project("{40ABE9DE-D2E9-6CBE-6A53-39112E8F5022}") = "Viiiz", "Assembly-UnityScript-firstpass.unityproj", "{ACD0EF06-D4AD-94BB-3BA4-3C21B4DD5910}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,10 +19,6 @@ Global
 		{2852AB85-1788-4D0F-9B6A-896D9F7CC7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2852AB85-1788-4D0F-9B6A-896D9F7CC7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2852AB85-1788-4D0F-9B6A-896D9F7CC7D4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ACD0EF06-D4AD-94BB-3BA4-3C21B4DD5910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ACD0EF06-D4AD-94BB-3BA4-3C21B4DD5910}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ACD0EF06-D4AD-94BB-3BA4-3C21B4DD5910}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ACD0EF06-D4AD-94BB-3BA4-3C21B4DD5910}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
